@@ -1,5 +1,5 @@
-//#include <CliTerminal.h>
-#include "../CliTerminal.h"
+#include <CliTerminal.h>
+//#include "../CliTerminal.h"
 
 //Set Method limit to 10 pcs
 //default is 50
