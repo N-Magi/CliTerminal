@@ -24,6 +24,7 @@ void Cli_Terminal::cli_cal()
             return;
         }
         String command = Serial.readStringUntil((char)10);
+        command.trim();
         Serial.println(command);
         String processed[2];
         *processed = *TextProcessor(command, processed);
