@@ -1,6 +1,6 @@
 # CliTerminal
 ## Description
-Simple Serial Terminal liblary
+Simple Serial Terminal library
 ## usage
  * Install Liblary
  * define ` Cli_Terminal terminal(100); `
